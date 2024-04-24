@@ -1,4 +1,4 @@
-# Gafika-Final-Project-3D-graphic
+# Grafika-Final-Project-3D-graphic
 
 Universitas Maritim Raja Ali Haji 2024
 Teknik Informatika
